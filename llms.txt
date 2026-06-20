@@ -1,4 +1,4 @@
-# Deseo bajo la lluvia
+# Deseo bajo la lluvia, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Deseo bajo la lluvia |
+| **Title** | Deseo bajo la lluvia, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-bajo-la-lluvia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Deseo bajo la lluvia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-bajo-la-lluvia/) |
+| **Get License** | [Secure Licensing Rights for Deseo bajo la lluvia, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-bajo-la-lluvia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo la lluvia nos vamo' a mojar,
+> Esa mirada me invita a pecar.
+> Baby, you know no hay vuelta atrás,
+> Siento el deseo, tú quieres de más.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `027c1538185b0c75bfedc1245c9f0fe1b30243e879a39ab3ff69f80eedc4d2aa` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
